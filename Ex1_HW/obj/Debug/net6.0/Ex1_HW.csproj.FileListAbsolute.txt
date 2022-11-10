@@ -1,0 +1,15 @@
+C:\C#\Ex1_HW\bin\Debug\net6.0\Ex1_HW.exe
+C:\C#\Ex1_HW\bin\Debug\net6.0\Ex1_HW.deps.json
+C:\C#\Ex1_HW\bin\Debug\net6.0\Ex1_HW.runtimeconfig.json
+C:\C#\Ex1_HW\bin\Debug\net6.0\Ex1_HW.dll
+C:\C#\Ex1_HW\bin\Debug\net6.0\Ex1_HW.pdb
+C:\C#\Ex1_HW\obj\Debug\net6.0\Ex1_HW.csproj.AssemblyReference.cache
+C:\C#\Ex1_HW\obj\Debug\net6.0\Ex1_HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Ex1_HW\obj\Debug\net6.0\Ex1_HW.AssemblyInfoInputs.cache
+C:\C#\Ex1_HW\obj\Debug\net6.0\Ex1_HW.AssemblyInfo.cs
+C:\C#\Ex1_HW\obj\Debug\net6.0\Ex1_HW.csproj.CoreCompileInputs.cache
+C:\C#\Ex1_HW\obj\Debug\net6.0\Ex1_HW.dll
+C:\C#\Ex1_HW\obj\Debug\net6.0\refint\Ex1_HW.dll
+C:\C#\Ex1_HW\obj\Debug\net6.0\Ex1_HW.pdb
+C:\C#\Ex1_HW\obj\Debug\net6.0\Ex1_HW.genruntimeconfig.cache
+C:\C#\Ex1_HW\obj\Debug\net6.0\ref\Ex1_HW.dll
