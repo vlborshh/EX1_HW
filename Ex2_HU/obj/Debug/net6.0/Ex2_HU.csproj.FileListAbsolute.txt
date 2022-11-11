@@ -1,0 +1,15 @@
+C:\C#\Ex2_HU\bin\Debug\net6.0\Ex2_HU.exe
+C:\C#\Ex2_HU\bin\Debug\net6.0\Ex2_HU.deps.json
+C:\C#\Ex2_HU\bin\Debug\net6.0\Ex2_HU.runtimeconfig.json
+C:\C#\Ex2_HU\bin\Debug\net6.0\Ex2_HU.dll
+C:\C#\Ex2_HU\bin\Debug\net6.0\Ex2_HU.pdb
+C:\C#\Ex2_HU\obj\Debug\net6.0\Ex2_HU.csproj.AssemblyReference.cache
+C:\C#\Ex2_HU\obj\Debug\net6.0\Ex2_HU.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Ex2_HU\obj\Debug\net6.0\Ex2_HU.AssemblyInfoInputs.cache
+C:\C#\Ex2_HU\obj\Debug\net6.0\Ex2_HU.AssemblyInfo.cs
+C:\C#\Ex2_HU\obj\Debug\net6.0\Ex2_HU.csproj.CoreCompileInputs.cache
+C:\C#\Ex2_HU\obj\Debug\net6.0\Ex2_HU.dll
+C:\C#\Ex2_HU\obj\Debug\net6.0\refint\Ex2_HU.dll
+C:\C#\Ex2_HU\obj\Debug\net6.0\Ex2_HU.pdb
+C:\C#\Ex2_HU\obj\Debug\net6.0\Ex2_HU.genruntimeconfig.cache
+C:\C#\Ex2_HU\obj\Debug\net6.0\ref\Ex2_HU.dll
