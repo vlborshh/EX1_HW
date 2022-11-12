@@ -2,5 +2,6 @@
 int numberA = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите второе ЦЕЛОЕ число: ");
 int numberB = Convert.ToInt32(Console.ReadLine());
-Console.Write($"Сумма введеных чисел: {numberA + numberB}");
+int res = numberA + numberB;
+Console.Write($"Сумма введеных чисел: {res}");
 
